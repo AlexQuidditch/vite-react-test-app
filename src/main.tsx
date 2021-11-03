@@ -5,6 +5,7 @@ import App from './App'
 
 console.log('added by web editor')
 console.log('added by web editor for @ZheniaMagic')
+console.log('added by web editor for @ZheniaMagic at develop')
 
 ReactDOM.render(
   <React.StrictMode>
